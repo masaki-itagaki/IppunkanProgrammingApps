@@ -10,7 +10,6 @@ namespace ChatTrainer
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.GetEncoding("Shift-JIS");
             //===========================
             //Step 1: アプリ始動時のユーザー指示
             //===========================
