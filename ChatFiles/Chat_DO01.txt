@@ -1,0 +1,6 @@
+A/The service went down for 3 minutes this morning/今朝サービスが3分間ダウンしていた。
+B/Oh no! What was the problem?/ええっ？何が問題だったの？
+A/We still don't know/まだよくわからないんだ。
+A/Someone should start looking at it/だれか見たほうがいいんだよね。
+B/Who can do the initial investigation?/まずはその調査、だれができるの？
+A/I'll ask Mike to work on it/マイクにやってもらうよう頼んでみるよ。
